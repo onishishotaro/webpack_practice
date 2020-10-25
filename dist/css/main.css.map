@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///src/css/main.scss"],"names":[],"mappings":"AAAA,KACE,eAAgB,CADlB,QAGI,SAAU","file":"./css/main.css","sourcesContent":["body {\n  color: lightblue;\n  h1 {\n    color: red;\n  }\n}\n"],"sourceRoot":""}
